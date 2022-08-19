@@ -1,1 +1,1 @@
-![Screenshot](Diving_Project.png)
+![Screenshot](Diving_Projact.png)
